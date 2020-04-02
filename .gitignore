@@ -1,4 +1,6 @@
 enron-email-dataset.zip
 ./enron-email-dataset/email.csv
 .ipynb_checkpoints*
+enron-email-dataset*
+./enron-email-dataset/*
 
